@@ -6,7 +6,7 @@ A hands-on networking project built with OpenWrt to develop practical skills in 
 
 Alongside this home lab project, I have created a technical portfolio showcasing my practical IT experience and additional projects.
 
-Technical Portfolio: [Personal Technical Portfolio.pdf](portfolio/Personal Technical Portfolio.pdf)
+Technical Portfolio: [David Pimenta Technical Portfolio](portfolio/David_Pimenta_Technical_Portfolio.pdf)
 
 ## Overview
 
