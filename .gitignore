@@ -1,0 +1,4 @@
+# OpenWrt configuration backups may contain secrets or device-specific data
+*.tar.gz
+*.tgz
+*.backup
