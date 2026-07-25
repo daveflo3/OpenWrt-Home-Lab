@@ -2,6 +2,12 @@
 
 A hands-on networking project built with OpenWrt to develop practical skills in network administration, Linux command-line management and troubleshooting.
 
+## Technical Portfolio
+
+Alongside this home lab project, I have created a technical portfolio showcasing my practical IT experience and additional projects.
+
+Technical Portfolio: [Personal Technical Portfolio.pdf](portfolio/Personal Technical Portfolio.pdf)
+
 ## Overview
 
 This lab uses a Xiaomi Mi Router AC2100 running OpenWrt 23.05.5. I configured and tested a static DHCP reservation, an isolated guest network and SSH-based administration, documenting each stage with notes and screenshots.
